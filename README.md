@@ -1,5 +1,6 @@
 <div align="center"><h1> <samp>⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹</samp></h1></div>
 
+<div align="center">
 <samp>
   Information Security Analyst [OffSec] | Graduated in Analysis and Development Systems | Physics Undergraduate
   
@@ -13,6 +14,7 @@
   
   <div align="center">☆.𓋼𓍊 𓆏 𓍊𓋼𓍊.☆</div>
 </samp>
+</div>
 
 
 
